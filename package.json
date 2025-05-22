@@ -8,8 +8,9 @@
     "stash": "git stash && git stash drop"
   },
   "dependencies": {
-   "@whiskeysockets/baileys": "6.7.16",
-    "@ffmpeg-installer/ffmpeg": "latest",
+   
+    "@whiskeysockets/baileys": "6.7.16",
+    "@adiwajshing/keyed-db": "latest",
     "axios": "latest",
     "darksadas-new-baliyes": "latest",
     "buffer": "latest",
